@@ -1,2 +1,2 @@
 # oldcode
-Some of my horrible, old code written in Batch.
+A collection of Batchfiles (and one VBS file) that I wrote a few years ago, when I began to write code. There are mostly pranks, with some other fun things included. I got these from [this](http://sargeant45.weebly.com) website. The fake viruses got around school once, and I got in a whole lot of trouble for distributing them because the idiots who do IT at my school thought they were real.
